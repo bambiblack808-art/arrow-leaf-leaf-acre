@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flux",
+      "hasCanvas": true,
+      "bodyTextLen": 554,
+      "bodyTextHash": "9cf57d69d9540587e2d3d8c73723cf2ad88e150ff453a91dd6bffe651eb331eb",
+      "bodyTextPrefix": "Flux Vector field plotter F (x, y) = ( x-component of the field ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flux",
+      "hasCanvas": true,
+      "bodyTextLen": 554,
+      "bodyTextHash": "034c6840c16f41131b718a9b5818449dac6a8e94bbb9922470f6537c439d6f0c",
+      "bodyTextPrefix": "Flux Vector field plotter Pause F (x, y) = x-component of the fi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
